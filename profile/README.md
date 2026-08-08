@@ -1,4 +1,4 @@
-# Fryrvo Portal
+# [Fryrvo Portal](https://fryrvo.com/)
 <p align="center" style="text-align: center;">
 <!-- GitHub  --> <a href="https://github.com/Fryrvo">                 <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/Github-Button-64.png" alt="GitHub" style="margin: 5px 10px;"></a>
 <!-- Modrinth--> <a href="https://modrinth.com/user/Fryrvo">          <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/Modrinth-Button-64.png" alt="Modrinth" style="margin: 5px 10px;"></a>
